@@ -14,6 +14,9 @@
 ## Run and Demo
 * Run app.py file in src
 * Standard feature
+* 
   ![standard](https://github.com/Truongdhvnu/MyCalculator/assets/122275694/8266c013-dd1c-4f5c-a16c-674b700c45ba)
+  
 * Graphing feature
+
   ![graphing](https://github.com/Truongdhvnu/MyCalculator/assets/122275694/f539f19a-7ece-4527-acf2-d41d335b6b77)

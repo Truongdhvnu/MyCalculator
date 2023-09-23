@@ -1,5 +1,4 @@
 import tkinter.font as font
-from math import *
 import tkinter as tk
 from mybutton import Mybutton
 
@@ -45,6 +44,7 @@ class Standard():
                     button_font['weight'] = 'bold'                  #size of button w/h base on current font so the cell will "xoc xech" neu both bold and normal
                 else:
                     button_font['weight'] = 'bold'
+                global button
                 if i in self.button_color2_list:
                     button = Mybutton(new_frame, color="color2", text=self.button_name_list[i-1], font=button_font)
                 elif i in self.button_color1_list:
